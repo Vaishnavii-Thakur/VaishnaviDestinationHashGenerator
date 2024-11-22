@@ -1,0 +1,13 @@
+{
+    "type": "java",
+    "request": "launch",
+    "name": "Launch Program",
+    "mainClass": "DestinationHashGenerator",
+    "classPaths": [
+        "${workspaceFolder}/json-20230227.jar"
+    ],
+    "args": [
+        "12345",
+        "key.json"
+    ]
+}
